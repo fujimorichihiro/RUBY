@@ -13,6 +13,7 @@ def caliculation(number)
 	end
 end
 
+
 puts "数字を入力"
 input = gets.to_i
 puts "結果は、、、、"
